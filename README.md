@@ -29,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
