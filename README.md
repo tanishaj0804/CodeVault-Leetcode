@@ -11,9 +11,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
