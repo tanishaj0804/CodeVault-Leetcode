@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
 |  |
