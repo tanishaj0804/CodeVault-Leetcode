@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 ## Array
 |  |
