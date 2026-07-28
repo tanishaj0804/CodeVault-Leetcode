@@ -1,8 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
         seen = {}
+        ans = []
         for i in range(len(nums)):
-            diff = target - nums[i]
+            diff = target-nums[i]
             if diff in seen:
-                return [seen[diff],i] 
+                ans += [nums.index(diff),i]
             seen[nums[i]] = i
+        return ans
