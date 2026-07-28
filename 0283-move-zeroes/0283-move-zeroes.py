@@ -12,3 +12,4 @@ class Solution(object):
                 nums[l],nums[i] = nums[i],nums[l]
                 l+=1
         
+        
