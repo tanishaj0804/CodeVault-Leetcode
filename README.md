@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0058-length-of-last-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
