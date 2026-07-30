@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0210-course-schedule-ii) |
+| [1791-find-center-of-star-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
