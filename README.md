@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 ## Monotonic Stack
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
@@ -227,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
