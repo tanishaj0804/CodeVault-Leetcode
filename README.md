@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -177,9 +179,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -263,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
