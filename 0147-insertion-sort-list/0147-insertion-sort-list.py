@@ -9,25 +9,16 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)
-        dummy.next = head
-        prev = dummy
         curr = head
-        lsort = float('-inf')
-        while curr is not None:
-            if curr.val >= lsort:
-                lsort = curr.val
-                prev = curr
-                curr = curr.next
-                continue
-            pos = dummy
-            while curr.val >= pos.next.val:
-                pos = pos.next
-            prev.next = curr.next
-            curr.next = pos.next
-            pos.next = curr
-            curr = prev.next
+        arr = []
+        while curr:
+            arr.append(curr.val)
+            curr = curr.next
+        arr.sort()
+        temp = head
+        for i in range(len(arr)):
+            temp.val = arr[i]
+            temp = temp.next
 
-        return dummy.next
-
+        return head
         
