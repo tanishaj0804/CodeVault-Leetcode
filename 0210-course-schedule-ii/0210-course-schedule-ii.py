@@ -11,9 +11,9 @@ class Solution(object):
             adj[pre].append(course)
             indegree[course] += 1
         q = deque()
-        for i in range(len(indegree)):
+        for i in range(numCourses):
             if indegree[i] == 0:
-                q.append(indegree[i])
+                q.append(i)
         res = []
         while q:
             curr = q.pop()
