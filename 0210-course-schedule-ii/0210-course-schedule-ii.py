@@ -5,18 +5,21 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        graph = defaultdict(list)
-        df = [0]*numCourses
+        adj =[[] for _ in range(numCourses)]
+        indegree = [0]*numCourses
         for course,pre in prerequisites:
-            graph[pre].append(course)
-            df[course] += 1
-        q = deque([i for i in range(numCourses) if df[i] == 0])
+            adj[pre].append(course)
+            indegree[course] += 1
+        q = deque()
+        for i in range(len(indegree)):
+            if indegree[i] == 0:
+                q.append(indegree[i])
         res = []
         while q:
-            curr = q.popleft()
+            curr = q.pop()
             res.append(curr)
-            for n in graph[curr]:
-                df[n] -= 1
-                if df[n] == 0:
-                    q.append(n)
+            for nei in adj[curr]:
+                indegree[nei] -= 1
+                if indegree[nei] == 0:
+                    q.append(nei)
         return res if len(res) == numCourses else []
