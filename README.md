@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0643-maximum-average-subarray-i) |
