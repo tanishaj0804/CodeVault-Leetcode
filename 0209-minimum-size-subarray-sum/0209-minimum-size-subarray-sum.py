@@ -5,18 +5,22 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        ans = float('inf') 
-        l = 0
-        s = 0
         if target in nums:
             return 1
-        if sum(nums) < target:
+        if target > sum(nums):
             return 0
-        for i in range(len(nums)):
-            s += nums[i]
+        l = 0
+        s = 0
+        ans = float('inf')
+        for r in range(len(nums)):
+            s += nums[r]
             while s >= target:
-                ans = min(ans,i-l+1)
+                ans  = min(ans,r-l+1)
                 s -= nums[l]
                 l+=1
-        return ans
+        return ans 
+
+
+
+
         
