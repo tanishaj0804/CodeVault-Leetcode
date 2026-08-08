@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
+| [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
