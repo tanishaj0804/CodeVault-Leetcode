@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0300-longest-increasing-subsequence) |
