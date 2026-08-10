@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3731-find-missing-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3731-find-missing-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3731-find-missing-elements) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Matrix
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
