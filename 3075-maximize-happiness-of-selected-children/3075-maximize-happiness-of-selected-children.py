@@ -5,10 +5,12 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        happiness.sort(reverse = True)
+        happiness.sort(reverse=True)
+
         happy = 0
+
         for i in range(k):
-            happy += max(0,happiness[i]-i)
+            happy += max(0, happiness[i] - i)
+
         return happy
-        
         
