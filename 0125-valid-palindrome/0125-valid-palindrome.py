@@ -7,6 +7,8 @@ class Solution(object):
         s = "".join(c.lower() for c in s if c.isalnum())
         if s == "":
             return True
+        return s == s[::-1]
+        '''
         l = 0
         r = len(s)-1
         while l<=r:
@@ -15,4 +17,4 @@ class Solution(object):
             l += 1
             r -= 1
         return True
-        
+        '''
