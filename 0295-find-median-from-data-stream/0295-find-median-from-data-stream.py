@@ -1,8 +1,8 @@
 class MedianFinder:
 
     def __init__(self):
-        self.minHeap = []
-        self.maxHeap = []
+        self.minHeap = []   #stores half of high numbers
+        self.maxHeap = []   #stores half of low numbers
 
     def addNum(self, num: int) -> None:
         heappush(self.maxHeap, -num)
