@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0841-keys-and-rooms) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0841-keys-and-rooms) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0841-keys-and-rooms) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -556,4 +560,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
