@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -524,4 +528,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
