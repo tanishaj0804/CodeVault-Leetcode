@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3310-remove-methods-from-project](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3310-remove-methods-from-project](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
