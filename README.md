@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
