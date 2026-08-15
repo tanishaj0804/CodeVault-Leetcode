@@ -8,4 +8,7 @@ class Solution:
         if any(nums):
             return len(nums)-1
         return 0
+
+        
+
         
