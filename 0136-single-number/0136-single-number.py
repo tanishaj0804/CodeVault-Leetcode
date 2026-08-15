@@ -1,11 +1,6 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        ans  = 0
-        for num in nums:
-            ans = ans ^ num
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        ans=0
+        for i in nums:
+            ans=ans^i
         return ans
-        
