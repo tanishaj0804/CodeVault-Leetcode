@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Data Stream
 |  |
@@ -604,4 +609,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
