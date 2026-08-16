@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
