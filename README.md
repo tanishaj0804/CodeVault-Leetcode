@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
