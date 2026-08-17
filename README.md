@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -660,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
