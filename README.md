@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0206-reverse-linked-list) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
