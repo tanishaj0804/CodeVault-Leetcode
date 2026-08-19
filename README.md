@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0997-find-the-town-judge](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
