@@ -2,7 +2,6 @@ class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:
         arr1 = []
         arr2 = []
-        res = []
         arr1.append(nums[0])
         arr2.append(nums[1])
         for i in range(2,len(nums)):
@@ -10,6 +9,6 @@ class Solution:
                 arr1.append(nums[i])
             else:
                 arr2.append(nums[i])
-        res = arr1 + arr2
-        return res
+        return arr1 + arr2
+         
 
