@@ -1,14 +1,24 @@
-class Solution:
-    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        def perms(i):
-            if i==len(nums):
-                res.append(nums[:])
+class Solution(object):
+    def permuteUnique(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        ans = []
+
+        def permute(id):
+            if id == len(nums):
+                ans.append(nums[:])
                 return
-            for j in range(i,len(nums)):
-                nums[i],nums[j] = nums[j],nums[i]
-                perms(i+1)
-                nums[i],nums[j] = nums[j],nums[i]
-        perms(0)
-        unique = [list(row) for row in set(tuple(row) for row in res)]
-        return unique
+            used = set()
+            for i in range(id,len(nums)):
+                if nums[i] in used:
+                    continue
+                used.add(nums[i])
+                nums[id], nums[i] = nums[i], nums[id]
+                permute(id+1)
+                nums[id], nums[i] = nums[i], nums[id]
+        permute(0)
+        return ans
+
+        
