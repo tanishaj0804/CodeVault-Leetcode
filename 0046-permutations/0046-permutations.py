@@ -1,20 +1,14 @@
-class Solution(object):
-    def permute(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        ans = []
-        def permute(id):
-            if id == len(nums):
-                ans.append(nums[:])
-                return
-            for i in range(id, len(nums)):
-                nums[id], nums[i] = nums[i], nums[id]
-                permute(id+1)
-                nums[id], nums[i] = nums[i], nums[id]
-
-        permute(0)
-        return ans
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        def perms(i):
+            if i ==len(nums):
+                res.append(nums[:])
+            for j in range(i,len(nums)):
+                nums[i],nums[j] = nums[j],nums[i]
+                perms(i+1)
+                nums[i],nums[j] = nums[j],nums[i]
+        perms(0)
+        return res
 
         
