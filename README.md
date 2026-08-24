@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1563-stone-game-v) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 ## Linked List
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Depth-First Search
 |  |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -563,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
