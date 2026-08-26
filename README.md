@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -738,4 +741,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
