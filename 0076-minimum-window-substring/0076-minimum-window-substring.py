@@ -5,23 +5,24 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        seen = Counter(t)
-        if s == t:
-            return s
-        if len(t) > len(s):
-            return ""
+        freq = Counter(t)
         window = {}
+        if s == t:
+            return t
+        if len(s) < len(t):
+            return ""
         def valid():
-            for ch in seen:
-                if window.get(ch,0) < seen[ch]:
+            for ch in freq:
+                if window.get(ch,0) < freq[ch]:
                     return False
             return True
         l = 0
+        r = 0
         minv = float('inf')
         ans = ""
-        for r in range(len(s)):
+        while r < len(s):
             ch = s[r]
-            window[ch] = window.get(ch,0)+1
+            window[ch] = window.get(ch,0) + 1
             while valid():
                 if r-l+1 < minv:
                     minv = r-l+1
@@ -30,8 +31,8 @@ class Solution(object):
                 if window[s[l]] == 0:
                     del window[s[l]]
                 l += 1
+            r += 1
         return ans
-
 
 
         
