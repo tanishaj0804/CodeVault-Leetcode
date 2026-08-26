@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
@@ -749,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
