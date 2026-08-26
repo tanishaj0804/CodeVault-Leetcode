@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
