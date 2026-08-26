@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
