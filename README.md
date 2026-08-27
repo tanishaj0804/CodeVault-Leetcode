@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
@@ -808,4 +810,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
