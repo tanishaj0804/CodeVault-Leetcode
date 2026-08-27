@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
@@ -760,10 +762,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Pigeonhole Principle
 |  |
@@ -815,4 +819,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
