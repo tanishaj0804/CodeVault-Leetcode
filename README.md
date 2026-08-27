@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [1487-making-file-names-unique](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1487-making-file-names-unique) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
