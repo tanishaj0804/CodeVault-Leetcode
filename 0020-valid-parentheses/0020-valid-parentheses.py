@@ -1,15 +1,11 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
         pairs = {
-            ')' : '(',
-            ']' : '[',
-            '}' : '{'
+            ')':'(',
+            '}':'{',
+            ']':'['
         }
-        stack =[]
         for ch in s:
             if ch in pairs.values():
                 stack.append(ch)
