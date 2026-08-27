@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0912-sort-an-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
