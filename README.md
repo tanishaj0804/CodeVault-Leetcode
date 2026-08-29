@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 ## Simulation
 |  |
