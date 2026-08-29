@@ -1,25 +1,23 @@
-class Solution(object):
-    def uniquePathsWithObstacles(self, obstacleGrid):
-        """
-        :type obstacleGrid: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         m = len(obstacleGrid)
         n = len(obstacleGrid[0])
         dp = [[0]*n for _ in range(m)]
+        if obstacleGrid[0][0] == 1 or obstacleGrid[m-1][n-1] == 1:
+            return 0
         for i in range(m):
-            for j in range(n):
+            if obstacleGrid[i][0] == 1:
+                break
+            dp[i][0] = 1
+        for j in range(n):
+            if obstacleGrid[0][j] == 1:
+                break
+            dp[0][j] = 1
+        for i in range(1,m):
+            for j in range(1,n):
                 if obstacleGrid[i][j] == 1:
-                    continue
-                if i==0 and j==0:
-                    dp[i][j] = 1
+                    dp[i][j] = 0
                 else:
-                    up=left=0
-                    if i>0:
-                        up = dp[i-1][j]
-                    if j>0:
-                        left = dp[i][j-1]
-                    dp[i][j] = up+left
+                    dp[i][j] = dp[i-1][j] + dp[i][j-1]
         return dp[m-1][n-1]
-
         
