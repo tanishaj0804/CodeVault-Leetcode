@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3693-climbing-stairs-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3731-find-missing-elements) |
