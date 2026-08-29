@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0338-counting-bits) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0238-product-of-array-except-self) |
