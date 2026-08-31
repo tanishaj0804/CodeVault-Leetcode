@@ -1,20 +1,14 @@
-class Solution(object):
-    def ladderLength(self, beginWord, endWord, wordList):
-        """
-        :type beginWord: str
-        :type endWord: str
-        :type wordList: List[str]
-        :rtype: int
-        """
+class Solution:
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         if endWord not in wordList:
             return 0
         wordList = set(wordList)
-        q = deque()
         visited = set()
-        visited.add(beginWord)
+        q = deque()
         q.append((beginWord,1))
+        visited.add(beginWord)
         while q:
-            curr,moves = q.popleft()
+            curr, moves = q.popleft()
             if curr == endWord:
                 return moves
             for i in range(len(curr)):
@@ -24,4 +18,3 @@ class Solution(object):
                         visited.add(neww)
                         q.append((neww,moves+1))
         return 0
-            
