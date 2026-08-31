@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
