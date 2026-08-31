@@ -8,12 +8,12 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        q= deque([(root,1)])    #node, depth
+        q = deque()
+        q.append((root,1))
         while q:
             node,depth = q.popleft()
             if node.left:
                 q.append((node.left,depth+1))
             if node.right:
-                q.append((node.right,depth+1))   
+                q.append((node.right,depth+1))
         return depth
-        
