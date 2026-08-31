@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0337-house-robber-iii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
