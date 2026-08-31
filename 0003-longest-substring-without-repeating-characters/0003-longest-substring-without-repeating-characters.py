@@ -1,10 +1,10 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         seen = set()
-        n = len(s)
         i = j = 0
         maxv = 0
-        while j<n:
+        n = len(s)
+        while j < n:
             while s[j] in seen:
                 seen.remove(s[i])
                 i += 1
@@ -12,4 +12,3 @@ class Solution:
             maxv = max(maxv,j-i+1)
             j += 1
         return maxv
-        
