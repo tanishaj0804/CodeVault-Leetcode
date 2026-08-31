@@ -1,20 +1,25 @@
 """
 # Definition for a Node.
-class Node:
-    def __init__(self, val: Optional[int] = None, children: Optional[List['Node']] = None):
+class Node(object):
+    def __init__(self, val=None, children=None):
         self.val = val
         self.children = children
 """
 
-class Solution:
-    def maxDepth(self, root: 'Node') -> int:
+class Solution(object):
+    def maxDepth(self, root):
+        """
+        :type root: Node
+        :rtype: int
+        """
         if not root:
             return 0
-        q = deque()
-        q.append((root,1))
-        while q:
-            node,depth = q.popleft()
-            if node.children:
-                for nei in node.children:
-                    q.append((nei,depth+1))
-        return depth
+        maxd = 0
+        stack = [(root,1)]
+        while stack:
+            node,depth = stack.pop()
+            maxd = max(maxd,depth)
+            for child in node.children:
+                stack.append((child,depth+1))
+        return maxd
+        
