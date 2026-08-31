@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
