@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0997-find-the-town-judge) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
