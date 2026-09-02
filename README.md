@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0213-house-robber-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0980-unique-paths-iii) |
