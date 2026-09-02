@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0705-design-hashset) |
+| [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
 | [0997-find-the-town-judge](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
 | [1092-shortest-common-supersequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
 ## Graph Coloring
 |  |
 | ------- |
