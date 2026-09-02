@@ -6,10 +6,10 @@ class Solution(object):
         """
         m = len(grid)
         n = len(grid[0])
-        sr = sc = er = ec = 0 
-        visited = set()
-        self.output = 0
+        visited =set()
+        sr = sc = er = ec = 0
         empty = 0
+        self.output = 0
         directions = [(0,1),(0,-1),(1,0),(-1,0)]
         def dfs(x,y,visited,e):
             if x == er and y == ec:
@@ -29,9 +29,7 @@ class Solution(object):
                     sr,sc = i,j
                 elif grid[i][j] == 0:
                     empty += 1
-        dfs(sr,sc,visited,0)
+        dfs(sr,sc,visited,0)      
         return self.output
-        
-            
 
         
