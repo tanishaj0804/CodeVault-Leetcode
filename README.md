@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
