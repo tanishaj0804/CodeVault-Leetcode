@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0337-house-robber-iii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -944,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
