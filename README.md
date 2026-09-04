@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0048-rotate-image) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
