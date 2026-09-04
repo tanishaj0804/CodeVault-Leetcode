@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Matrix
 |  |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2947-count-beautiful-substrings-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3903-smallest-stable-index-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
 |  |
 | ------- |
