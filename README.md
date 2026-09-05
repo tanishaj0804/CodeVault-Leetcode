@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0406-queue-reconstruction-by-height](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0455-assign-cookies) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -787,10 +789,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
