@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0705-design-hashset) |
 | [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0763-partition-labels) |
 | [1092-shortest-common-supersequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0630-course-schedule-iii) |
+| [0763-partition-labels](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
