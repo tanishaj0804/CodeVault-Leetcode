@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0118-pascals-triangle) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0200-number-of-islands) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0401-binary-watch) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
