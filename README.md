@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0752-open-the-lock) |
+| [0860-lemonade-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0630-course-schedule-iii) |
+| [0860-lemonade-change](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
