@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
