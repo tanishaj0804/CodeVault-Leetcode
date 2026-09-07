@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0511-game-play-analysis-i) |
+| [0626-exchange-seats](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0626-exchange-seats) |
 ## Math
 |  |
 | ------- |
