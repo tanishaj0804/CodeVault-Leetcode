@@ -3,6 +3,7 @@ class Solution:
         MOD = 10**9+7
         tot = 0
         dp = [0]*26
+        #dp[c]  - tells the number of subsequences ending at c
         for c in s:
             c = ord(c) - ord('a')
             new = tot + 1 - dp[c]
