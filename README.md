@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0382-linked-list-random-node) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0217-contains-duplicate) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1472-design-browser-history) |
 ## Bidirectional Search
 |  |
