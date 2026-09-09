@@ -1,9 +1,9 @@
 class Solution:
     def countCommas(self, n: int) -> int:
-        cnt = 0
-        if n < 1000:
-            return cnt
+        count = 0
+        if n<1000:
+            return count
         for i in range(1000,n+1):
-            cnt += 1
-        return cnt
+            count += 1
+        return count
         
