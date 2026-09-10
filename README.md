@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
 |  |
 | ------- |
