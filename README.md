@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Math
 |  |
 | ------- |
