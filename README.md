@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0626-exchange-seats](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1084-sales-analysis-iii) |
