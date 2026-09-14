@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -1151,4 +1152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1029-two-city-scheduling) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
