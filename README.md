@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1487-making-file-names-unique](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1487-making-file-names-unique) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2748-number-of-beautiful-pairs](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2947-count-beautiful-substrings-i](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1436-destination-city) |
 | [1487-making-file-names-unique](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1487-making-file-names-unique) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaj0804/CodeVault-Leetcode/tree/master/2029-stone-game-ix) |
